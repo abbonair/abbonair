@@ -3,7 +3,7 @@
  $visitor_email = $_POST['email']; 
  $message = $_POST['subject']; 
 
- $email_from ='moa.hjelm@hotmail.com'
+ $email_from ='abbonair@gmail.com'
 
  $email_subject = 'Meddlenade från hemsidan'
 
@@ -11,7 +11,7 @@
                "Avsändarens e-mail: $visitor_email.\n".
                "Meddelande: $message.\n"; 
 
- $to = "moa.hjelm@hotmailcom"; 
+ $to = "abbonair@gamil.com"; 
  $headers = "From: $email_from \r\n";
  $headers .= "Reply-To: $email_from \r\n";
 
