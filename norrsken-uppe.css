@@ -1,0 +1,206 @@
+*
+.hero-lighting
+{
+    margin: -100px 0px 100px;
+    box-sizing: border-box;
+    border: 1px solid rgba(255, 255, 255, 0);
+    background-color: rgb(0, 0, 0);
+}
+#one
+{
+	/*animation*/
+	-webkit-animation: ett 5s ease-in-out infinite alternate;
+	-moz-animation: ett 5s ease-in-out infinite alternate;
+	-ms-animation: ett 5s ease-in-out infinite alternate;
+	-o-animation: ett 5s ease-in-out infinite alternate;
+	animation: ett 5s ease-in-out infinite alternate;
+}
+@-webkit-keyframes 
+ett { from {
+-webkit-box-shadow: 0 0 125px 10px #473C78;
+}
+
+to { -webkit-box-shadow: 0 0 50px 7.5px #F72A3B; }
+}
+@-moz-keyframes 
+ett { from {
+-moz-box-shadow: 0 0 125px 10px #473C78;
+}
+
+to { -moz-box-shadow: 0 0 50px 7.5px #F72A3B; }
+}
+@-o-keyframes 
+ett { from {
+-o-box-shadow: 0 0 125px 10px #473C78;
+}
+
+to { -o-box-shadow: 0 0 50px 7.5px #F72A3B; }
+}
+
+@keyframes 
+ett { from {
+box-shadow: 0 0 125px 10px #473C78;
+}
+
+to {box-shadow: 0 0 50px 7.5px #F72A3B; }
+}
+
+#two
+{
+	width: 90%;
+	/*animation*/
+	-webkit-animation: tva 4s ease-in-out infinite alternate;
+	-moz-animation: tva 4s ease-in-out infinite alternate;
+	-ms-animation: tva 4s ease-in-out infinite alternate;
+	-o-animation: tva 4s ease-in-out infinite alternate;
+	animation: tva 4s ease-in-out infinite alternate;
+}
+@-webkit-keyframes 
+tva { from {
+-webkit-box-shadow: 0 0 125px 10px #18C499;
+}
+
+to { -webkit-box-shadow: 0 0 50px 7.5px #D8F05E; }
+}
+@-moz-keyframes 
+tva { from {
+-moz-box-shadow: 0 0 125px 10px #18C499;
+}
+
+to { -moz-box-shadow: 0 0 50px 7.5px #D8F05E; }
+}
+@-o-keyframes 
+tva { from {
+-o-box-shadow: 0 0 125px 10px #18C499;
+}
+
+to { -o-box-shadow: 0 0 50px 7.5px #D8F05E; }
+}
+
+@keyframes 
+tva { from {
+box-shadow: 0 0 125px 10px #18C499;
+}
+
+to { box-shadow: 0 0 50px 7.5px #D8F05E; }
+}
+
+#three
+{
+	width: 80%;
+	/*animation*/
+	-webkit-animation: tre 3s ease-in-out infinite alternate;
+	-moz-animation: tre 3s ease-in-out infinite alternate;
+	-ms-animation: tre 3s ease-in-out infinite alternate;
+	-o-animation: tre 3s ease-in-out infinite alternate;
+	animation: tre 3s ease-in-out infinite alternate;
+}
+@-webkit-keyframes 
+tre { from {
+-webkit-box-shadow: 0 0 125px 20px #FFDD00;
+}
+
+to { -webkit-box-shadow: 0 0 50px 7.5px #3E33FF; }
+}
+@-moz-keyframes 
+tre { from {
+-moz-box-shadow: 0 0 125px 20px #FFDD00;
+}
+
+to { -moz-box-shadow: 0 0 50px 7.5px #3E33FF }
+}
+@-o-keyframes 
+tre { from {
+-o-box-shadow: 0 0 125px 20px #FFDD00;
+}
+
+to { -o-box-shadow: 0 0 50px 7.5px #3E33FF }
+}
+
+@keyframes 
+tre { from {
+box-shadow: 0 0 125px 20px #FFDD00;
+}
+
+to { box-shadow: 0 0 50px 7.5px #3E33FF }
+}
+
+#four
+{
+	width: 70%;
+	/*animation*/
+	-webkit-animation: fyra 2s ease-in-out infinite alternate;
+	-moz-animation: fyra 2s ease-in-out infinite alternate;
+	-ms-animation: fyra 2s ease-in-out infinite alternate;
+	-o-animation: fyra 2s ease-in-out infinite alternate;
+	animation: fyra 2s ease-in-out infinite alternate;
+}
+@-webkit-keyframes 
+fyra { from {
+-webkit-box-shadow: 0 0 125px 10px #781848;
+}
+
+to { -webkit-box-shadow: 0 0 50px 7.5px #F2BBE9; }
+}
+@-moz-keyframes 
+fyra { from {
+-moz-box-shadow: 0 0 125px 10px #781848;
+}
+
+to { -moz-box-shadow: 0 0 50px 7.5px #F2BBE9; }
+}
+@-o-keyframes 
+fyra { from {
+-o-box-shadow: 0 0 125px 10px #781848;
+}
+
+to { -o-box-shadow: 0 0 50px 7.5px #F2BBE9; }
+}
+
+@keyframes 
+fyra { from {
+shadow: 0 0 125px 10px #781848;
+}
+
+to { shadow: 0 0 50px 7.5px #F2BBE9; }
+}
+
+#five
+{
+	width: 60%;
+	/*animation*/
+	-webkit-animation: fem 1s ease-in-out infinite alternate;
+	-moz-animation: fem 1s ease-in-out infinite alternate;
+	-ms-animation: fem 1s ease-in-out infinite alternate;
+	-o-animation: fem 1s ease-in-out infinite alternate;
+	animation: fem 1s ease-in-out infinite alternate;
+}
+@-webkit-keyframes 
+fem { from {
+-webkit-box-shadow: 0 0 125px 10px #42F2A1;
+}
+
+to { -webkit-box-shadow: 0 0 50px 7.5px #F4F6AD; }
+}
+@-moz-keyframes 
+fem { from {
+-moz-box-shadow: 0 0 125px 10px #42F2A1;
+}
+
+to { -moz-box-shadow: 0 0 50px 7.5px #F4F6AD; }
+}
+@-o-keyframes 
+fem { from {
+-o-box-shadow: 0 0 125px 10px #42F2A1;
+}
+
+to { -o-box-shadow: 0 0 50px 7.5px #F4F6AD; }
+}
+
+@keyframes 
+fem { from {
+box-shadow: 0 0 125px 10px #42F2A1;
+}
+
+to { box-shadow: 0 0 50px 7.5px #F4F6AD; }
+}
